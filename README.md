@@ -1,6 +1,6 @@
 # LEMP Memory Forensics Plugins
 
-This repository contains a handful of Rekall Framework forensics plugins that extract information from the heap memory of the main applications of a LEMP Server.
+This repository contains a handful of Rekall Framework forensics plugins that extract information from the heap memory of the main applications of a LEMP (Linux, NGINX, MySQL, PHP) Server.
 
 ## Description
 
